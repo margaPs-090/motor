@@ -33,7 +33,7 @@ motor/
 1. Clona el repositorio y entra en la carpeta:
 
    ```bash
-   git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+   git clone https://github.com/margaPs-090/motor.git
    cd TU_REPOSITORIO
    ```
 
